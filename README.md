@@ -1,6 +1,8 @@
 ==Intro==
 International draughts (also called Polish draughts or international checkers) is a strategy game for two players, one of the variants of draughts. The gameboard comprises 10×10 squares in alternating dark and light colours, of which only the 50 dark squares are used. Each player has 20 pieces, light for one player and dark for the other, at opposite sides of the board. In conventional diagrams the board is displayed with the light pieces at the bottom; in this orientation the lower-left corner square must be dark.
 
+![alt text](https://github.com/eemb3d/DraughtsGame/blob/master/Screenshot.png)
+
 ==Rules==
 The general rule is that all moves and captures are made diagonally. All references to squares refer to the dark squares only. The main differences from English draughts are: the size of the board (10×10), pieces can also capture backward (not only forward), the long-range moving and capturing capability of kings, and the requirement that the maximum number of men be captured whenever a player has capturing options.
 
